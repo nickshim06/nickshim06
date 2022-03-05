@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickshim06
 - 👀 I’m interested in web development, software development, solving algorithm problem
-- 🌱 I’m currently learning to build my own webiste
+- 🌱 I’m currently learning to build my own website
 - 💞️ I’m still newbie in GitHub 
 - 📫 You can reach me at nickharmdone06@gmail.com
 
